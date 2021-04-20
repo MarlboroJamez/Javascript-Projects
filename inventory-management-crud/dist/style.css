@@ -1,0 +1,30 @@
+.container {
+  background: rgba(220,220,220,.4);
+  border-radius: 20px;
+  border: 1px solid rgba(178,34,34,.45);
+  color: rgba(0,0,0,.7);
+  box-shadow: 6px 4px 5px 0px rgb(128,0,0);
+}
+
+label{
+  font-weight: 600;
+  font-size: 18px;
+}
+
+input {
+  background: transparent !important;
+	border: none !important;
+	outline: none;
+	border-bottom: 1px solid rgba(0,0,0,.25) !important;
+}
+
+select {
+  background: rgba(178,34,34,.35) !important;
+	border: none !important;
+	outline: none;
+	border-bottom: 1px solid whitesmoke !important;
+}
+
+#date {
+  background: rgb(245,245,245,.65) !important;
+}

@@ -1,0 +1,52 @@
+.container {
+  margin-left: 38%;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  height: 300px;
+  width: 300px;
+  border: 1px solid rgba(0,0,0,.45);
+  border-radius: 10px;
+  font-family: gordita,Helvetica Neue,Helvetica,sans-serif;
+}
+
+h1 {
+  text-align: center;
+  border-bottom: 1px solid rgba(0,0,0,.35);
+  padding-bottom: 15px;
+}
+
+#click {
+  border-radius: 10px;
+  border-color: rgb(70,130,180);
+  padding: 8px 5px;
+  margin-left: 26%;
+  font-weight: 700;
+  background: white;
+}
+
+#reset {
+  border-radius: 10px;
+  border-color: rgb(178,34,34);
+  padding: 8px 5px;
+  margin-left: 3%;
+  font-weight: 700;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  background: white;
+}
+
+input {
+  border-radius: 10px;
+  padding: 5px 5px;
+  border: 1px solid rgba(0,0,0,.15);
+  margin-bottom: 10px;
+  margin-left: 16%;
+  margin-top: 10px;
+}
+
+#totalDays {
+ padding-left: 22%;
+ margin-bottom: 10px;
+ color: grey;
+ font-size: 14px;
+}
