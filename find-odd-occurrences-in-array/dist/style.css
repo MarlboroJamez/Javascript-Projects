@@ -1,0 +1,35 @@
+.container {
+  width: 400px;
+  margin-left: 43%;
+  margin-top: 15%;
+  font-family: gordita,Helvetica Neue,Helvetica,sans-serif;
+}
+
+input {
+  margin-top: 50px;
+  width: 300px;
+  outline: none;
+  border: none;
+  border-bottom-right-radius: 20px;
+  border-bottom: 3px solid rgba(75,0,130,.4);
+  margin-bottom: 30px;
+}
+
+button {
+  background: transparent;
+  color: rgb(0,0,0);
+  border: 2px solid rgb(0,0,0);
+  border-radius: 10px;
+  padding: 5px;
+  margin-left: 25%;
+  font-weight: 600;
+}
+
+button:hover {
+  transform: scale(1.1);
+}
+
+label {
+  font-size: 30px;
+  margin-left: 13%;
+}
