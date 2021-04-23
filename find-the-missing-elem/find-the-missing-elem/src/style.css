@@ -1,0 +1,29 @@
+.container {
+  margin-top: 15%;
+  margin-left: 30%;
+  width: 660px;
+  text-align: center;
+  font-family: 'Graphik web',sans-serif;
+}
+
+input {
+  margin-top: 15px;
+  border: none;
+  outline: none;
+  border-bottom: 3px solid firebrick;
+  margin-bottom: 30px;
+}
+button {
+  border-radius: 10px;
+  background: transparent;
+  border: 3px solid rgb(0,0,0);
+}
+
+button:hover {
+  transform: scale(1.1);
+}
+
+label {
+  font-weight: 600;
+}
+
