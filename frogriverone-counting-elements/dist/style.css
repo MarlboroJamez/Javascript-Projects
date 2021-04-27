@@ -1,0 +1,30 @@
+.container {
+  margin-top: 15%;
+  margin-left: 35%;
+  width: 650px;
+}
+
+.form-group {
+  margin-left: 35%;
+}
+
+input {
+  outline:none;
+  border: none;
+  background: transparent;
+  border-bottom: 3px solid firebrick;
+  margin-top: 20px;
+}
+
+button {
+  margin-top: 30px;
+  border-radius: 10px;
+  border: 2px solid rgb(0,0,0);
+  font-weight: 600;
+  margin-left: 40%;
+}
+
+label {
+  margin-left: 42%;
+  font-weight: 600;
+}
